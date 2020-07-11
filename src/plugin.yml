@@ -1,0 +1,10 @@
+main: ru.drygok.commandblocker.CommandBlocker
+name: CommandBlocker
+version: 1.0.0
+
+description: 'Simple plugin to block commands'
+author: 'Drygok'
+
+commands:
+  commandblocker:
+    aliases: [cblocker, cb, cblock]
